@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+//import Image from "next/image";
 
 import { RoomComponent } from "@/components/room";
 import { ConnectionProvider } from "@/hooks/use-connection";
