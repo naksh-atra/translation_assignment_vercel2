@@ -12,4 +12,3 @@
 
 
 deployed on vercel at: https://translation-assignment-vercel2-h96o6xk1p.vercel.app/
-<img width="583" height="30" alt="image" src="https://github.com/user-attachments/assets/478d205e-2eae-4cb7-a7de-aa3b7f9cde8b" />
